@@ -5,7 +5,7 @@
 
 <img align = 'right' alt = 'coding' width = "400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
-- 🌱 I’m currently learning **Tableau**
+- 👨‍💻 All of my projects are available at [https://linktr.ee/vinamrah](https://linktr.ee/vinamrah)
 
 - 📫 How to reach me **vinamrahnemani123.india@gmail.com**
 
